@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+form input {
+  margin: 10px;
+  height: 30px;
+}
+
+form span {
+  display: flex;
+}
+
+button {
+  margin: 10px;
+}
